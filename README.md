@@ -1,2 +1,2 @@
 # Javascript
-My studies in Javascript
+My studies and projects in Javascript
